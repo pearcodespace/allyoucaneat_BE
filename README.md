@@ -1,3 +1,4 @@
+Run allyoucaneat_BE on IntelliJ IDEA
 # AllYouCanEat Food
 
 1. **User:**
